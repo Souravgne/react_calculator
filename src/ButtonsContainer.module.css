@@ -1,0 +1,19 @@
+.buttonContainer{
+    width: 70%;
+
+}
+
+.button{
+    width: 30%;
+    height: 90px;
+    margin: 5px;
+    user-select: none;
+   border-radius: 10px;
+    
+    font-size: 30px;
+}
+.button:hover {
+    background-color: yellowgreen;
+    color: aliceblue;
+    
+}
